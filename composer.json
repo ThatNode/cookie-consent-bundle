@@ -1,5 +1,5 @@
 {
-    "name": "connectholland/cookie-consent-bundle",
+    "name": "ThatNode/cookie-consent-bundle",
     "type": "symfony-bundle",
     "description": "Symfony bundle for implementing Cookie Consent to comply to AVG/GDPR.",
     "license": "MIT",
@@ -19,7 +19,7 @@
         "symfony/translation": "^3.4 || ^4.2 || ^5.0",
         "symfony/twig-bridge": "^3.4 || ^4.2 || ^5.0",
         "symfony/twig-bundle": "^3.4 || ^4.2 || ^5.0",
-        "twig/twig": "^2.6"
+        "twig/twig": "^2.6 || ^3.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.14",
